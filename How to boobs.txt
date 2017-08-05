@@ -1,0 +1,30 @@
+To play
+1. git st
+ - if sth:
+   - 1. git add .
+   - 2. git stash
+   - 3. git stash drop 
+2. git sync
+ - if sth:
+   - 1. call Davit "AN ambulance"
+
+After play
+1. git st
+ - if nothing
+   - 1. FUCK Davit in the buthol
+2. git add . 
+3. git commit
+   - 1. press "i"
+   - 2. write title 
+   - 3. press "Esc"
+   - 4. write ":wq"
+   - 5. press "enter"
+  - if i need to add or remove or sth sth
+   - 1. do the sth
+   - 2. git add .
+   - 3. git amend
+   - 4. VIM - write ":wq"
+4. git push upstream master
+  - if i steel i need to add shit after push
+   - 1. do the if above
+   - 2. git push upstream master -f
